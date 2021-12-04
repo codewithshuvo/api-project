@@ -6,6 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
+.post-api{
+  background-color: #61dafb;
+  margin: 10px;
+  border-radius: 20px;
+  border: 5px red solid;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
